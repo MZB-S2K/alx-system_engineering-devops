@@ -1,2 +1,3 @@
 #!/bin/bash
-sort | uniq -u
+
+ls -1t | head
